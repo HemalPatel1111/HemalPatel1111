@@ -1,15 +1,66 @@
-- 👋 Hi, I’m Hemal Patel. I'm a Physics Graduate 👨‍🎓 passionate about Computer Programming!
-- 👀 I’m interested in Digital Arts 👨‍🎨, Physics👨‍🏫, Martial Arts 🧎‍♂, Yoga 🧘‍♂️, Nature 🌳
-- 🌱 I’m currently studying in Master of Physics. And learning about Clean Coding (do code cleanly and effectively),
-Machine Learning, Physics Simulation, DirectX 11 (for creating 3D rendering framework and utilizing in creating Physics Simulation)
-and spiritual growth.
+# Hi, I’m Hemal 👋
 
-Contact Info :
+**Physics Researcher & Scientific Programmer**  
+Nadiad, Gujarat, India · [GitHub](https://github.com/HemalPatel1111)
 
-Email-ID  - hemalp014@gmail.com
+Physics researcher with B.Sc. and M.Sc. in Physics and PhD work in plasma physics, specialising in simulation, numerical methods, and educational tools.[attached_file:70]  
+Over 12 years of programming experience across Python, C/C++, C#.NET, VB.NET and GDScript, with a public portfolio of physics engines, visualisation tools, and desktop utilities.[attached_file:71]  
 
-Instagram - hemal240 (https://www.instagram.com/hemal240/)
+---
 
-Facebook  - Hemal Patel (https://www.facebook.com/CoolHemu/)
+## 🔧 Tech & Domains
 
-Blog : https://naturemanhemal.blogspot.com/
+- **Languages:** Python, C, C++, C#.NET, VB.NET, GDScript (Godot)[attached_file:71]  
+- **Tools & Platforms:** Git/GitHub, ffmpeg, DirectX 11, WinForms / basic WPF, Linux/CLI, LaTeX[attached_file:71]  
+- **Science & Methods:** Plasma physics, classical mechanics, electromagnetism, group theory, numerical methods, data analysis, educational content development[attached_file:71]  
+
+---
+
+## 🚀 Featured Repositories
+
+### 🎮 Santa in Danger – Part 1 (Godot / GDScript)
+
+3D game prototype where Santa navigates a hostile environment, built with a modular architecture: separate scripts for characters, controls, weapons, HUD, and scenes for clean, testable gameplay logic.[attached_file:71]  
+
+> Focus: real‑time interaction, input handling, and scene organisation in Godot.
+
+---
+
+### 🧪 Science Simulation Suite (VB.NET / C# / C)
+
+A collection of physics, math, and logic tools:
+
+- **Inverse Law:** inverse‑square force simulator (e.g., gravity/central forces) with tunable initial conditions and scaling.  
+- **Pendulum & Double Pendulum:** visualising linear and chaotic motion.  
+- **Physics2D:** 2D circle‑collision engine exploring conservation laws and numerical stability.  
+- **Elements 2D:** electronic‑structure visualiser for elements ordered by quantum numbers.  
+- **Logic Gates, Graph Tracer, SmartRockets, Number Characteristics, Pendulum (2015–16)** and more for teaching and exploration.[attached_file:71]  
+
+> Focus: desktop simulations, numerical methods, education‑oriented visualisations.
+
+---
+
+### 🎥 FFmpeg Video Converter (C# / WinForms)
+
+Full‑fledged Windows video converter that wraps `ffmpeg.exe`, with:
+
+- A `Video` helper class reading duration and other metadata via Windows shell properties.  
+- A GUI to pick files, choose formats, and run conversions without touching the command line.[attached_file:71]  
+
+> Focus: process orchestration, Windows integration, and practical tooling.
+
+---
+
+## 📚 Other Work
+
+- **Group‑theory toolkit in C**: programs to generate multiplication tables, subgroups, cosets and classes for finite groups, used to produce MSc assignment reports and tutorials.[attached_file:68]  
+- **Version Control System slides**: Git/GitHub intro PPT used to teach classmates the basics of commits, branches, and collaboration.[attached_file:67]  
+
+---
+
+## 🌱 Currently
+
+- Continuing PhD‑level work in plasma physics and scientific computing.[attached_file:71]  
+- Expanding physics simulations and utility tools, and exploring AI/ML‑adjacent roles where physics, code, and data meet.  
+
+If any of these projects interest you, feel free to open an issue, suggest improvements, or reach out by email.
